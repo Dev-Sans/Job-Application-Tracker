@@ -1,0 +1,12 @@
+PERSONAL JOB APPLICATION REPORT
+Total applications: 3
+
+Applied: 1
+Interview: 1
+Selected: 0
+Rejected: 1
+
+APPLICATION DETAILS
+ABC Technologies | Python Intern | 2026-10-27 | Applied
+XYZ Solutions | Data Analyst Intern | 2026-10-25 | Interview
+BP & Co | Junior Developer | 2026-09-09 | Rejected
