@@ -1,0 +1,18 @@
+PERSONAL JOB APPLICATION TRACKER
+
+SAMPLE APPLICATIONS
+
+Company: ABC Technologies
+Job Role: Python Intern
+Date Applied: 2026-10-27
+Status: Applied
+
+Company: XYZ Solutions
+Job Role: Data Analyst Intern
+Date Applied: 2026-10-25
+Status: Interview
+
+Company: BP & Co
+Job Role: Junior Developer
+Date Applied: 2026-09-09
+Status: Rejected
